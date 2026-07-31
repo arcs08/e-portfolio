@@ -40,7 +40,7 @@ export default function Hero() {
   // mini-avatar takes over from there).
   const { scrollY } = useScroll()
   const scale = useTransform(scrollY, [0, 520], [1, 0.26])
-  const x = useTransform(scrollY, [0, 520], [0, -300])
+  const x = useTransform(scrollY, [0, 520], [0, 300])
   const y = useTransform(scrollY, [0, 520], [0, 150])
   const opacity = useTransform(scrollY, [0, 380, 520], [1, 0.5, 0])
 

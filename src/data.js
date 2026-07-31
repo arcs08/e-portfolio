@@ -8,7 +8,6 @@ export const profile = {
   roles: ['Aspiring Data Scientist', 'Machine Learning Practitioner', 'Data Mining & Analytics', 'ex-Banking Analyst'],
   location: 'Victoria, BC',
   email: 'mranandanto@gmail.com',
-  phone: '+16729743009',
   github: 'https://github.com/arcs08',
   linkedin: 'https://www.linkedin.com/in/anand-anto8',
   kicker: 'Master of Engineering in Applied Data Science · UVic',
@@ -138,12 +137,12 @@ export const projects = [
 ]
 
 export const filters = [
-  { f: 'all', label: 'All' },
   { f: 'ml', label: 'Machine Learning' },
   { f: 'ds', label: 'Data Science' },
   { f: 'sys', label: 'Distributed Systems' },
   { f: 'web', label: 'Web & Blockchain' },
   { f: 'research', label: 'Research' },
+  { f: 'all', label: 'All' },
 ]
 
 export const experience = [
