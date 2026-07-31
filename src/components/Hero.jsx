@@ -70,8 +70,9 @@ export default function Hero() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.9, delay: 0.3, ease: [0.2, 0.7, 0.2, 1] }}
           >
-            {/* scroll-linked wrapper: shrink + drift to lower-left */}
-            <motion.div style={{ scale, x, y, opacity }}>
+            {/* scroll-linked wrapper: shrink + drift as you scroll. sized to the
+                photo so the floating badges anchor to the photo, not the column. */}
+            <motion.div className="photo-wrap" style={{ scale, x, y, opacity }}>
               <motion.div className="photo-ring"
                 animate={{ y: [0, -12, 0] }}
                 transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
