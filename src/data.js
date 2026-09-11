@@ -130,10 +130,10 @@ export const experience = [
     p: "Tutor for Numerical Analysis, supporting students with numerical methods, algorithms, and problem-solving. I also coordinate the department's testing lab facility, overseeing scheduling, setup, and smooth day-to-day operation.",
   },
   {
-    h: 'Lab Teaching Assistant · ECE 241 (Digital Design)',
+    h: 'Teaching Assistant · Digital Design',
     org: 'University of Victoria · Victoria, Canada',
     when: 'Sept 2026 – Dec 2026',
-    p: 'Teaching assistant for the ECE 241 Digital Design lab, helping students work through the exercises and debug their circuits in coordination with the course instructor. Hold office hours and grade lab deliverables, keeping marking consistent with the rubric.',
+    p: 'Teaching assistant for the Digital Design lab, helping students work through the exercises and debug their circuits in coordination with the course instructor. Hold office hours and grade lab deliverables, keeping marking consistent with the rubric.',
   },
   {
     h: 'Lab TA · Design Engineering',
@@ -157,7 +157,7 @@ export const education = [
     courses: ['Data Analysis & Pattern Recognition', 'Applied Data Analysis', 'Optimization for ML', 'Systems for Massive Datasets', 'Algorithms & Data Models', 'Data Mining'],
   },
   {
-    h: 'B.Tech, Computer Science Engineering',
+    h: 'B.Tech · Computer Science Engineering',
     org: 'APJ Abdul Kalam University · Kerala, India',
     when: '2019 – 2023',
     courses: ['Machine Learning', 'Design Engineering', 'Data Structures & Algorithms', 'DBMS', 'Computer Networks', 'Software Engineering', 'Cloud Computing', 'Network Security'],
