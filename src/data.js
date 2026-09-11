@@ -130,6 +130,12 @@ export const experience = [
     p: "Tutor for Numerical Analysis, supporting students with numerical methods, algorithms, and problem-solving. I also coordinate the department's testing lab facility, overseeing scheduling, setup, and smooth day-to-day operation.",
   },
   {
+    h: 'Lab Teaching Assistant · ECE 241 (Digital Design)',
+    org: 'University of Victoria · Victoria, Canada',
+    when: 'Sept 2026 – Dec 2026',
+    p: 'Teaching assistant for the ECE 241 Digital Design lab, helping students work through the exercises and debug their circuits in coordination with the course instructor. Hold office hours and grade lab deliverables, keeping marking consistent with the rubric.',
+  },
+  {
     h: 'Lab TA · Design Engineering',
     org: 'University of Victoria · Victoria, Canada',
     when: 'Jan 2026 – Apr 2026',
